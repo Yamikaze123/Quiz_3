@@ -1,0 +1,44 @@
+﻿Name,Formula,SMILES,Chemist,bp_C,MW (g/mol),VdW (A^2),Vabc,nO,nAromAtom
+n-hexane,C6H14,CCCCCC,Aidan,68.73,86.178,215.61,112.33,0,0
+propane,C3H8,CCC,Ha,-42,44.097,123.83,60.44,0,0
+methanol,CH4O,CO,Jet,64.7,32.042,71.31,34.64,1,0
+triptane,C7H16,CC(C)C(C)(C)C,Nug,80.8,100.205,249.39,129.63,0,0
+isopropanol,C3H8O,CC(C)O,Thuy,82.3,60.096,131.72,69.23,1,0
+n-butanol,C4H10O,CCCCO,Christa,117,74.123,164.39,86.53,1,0
+2-methylpropane/ isobutane,C4H10,CC(C)C,Yixin,-12,58.124,153.43,77.74,0,0
+2-methylbut-2-ene,C5H10,CC=C(C)C ,Anjan,38.5,70.135,157.68,92.40,0,0
+"1,3-dimethylbenzene/ 1,3-xylene/ meta-xylene",C8H10,CC1=CC(=CC=C1)C,Aidan,139.1,106.168,200.25,115.76,0,6
+n-octane,C8H18,CCCCCCCC,Ha,125.6,114.232,276.73,146.92,0,0
+toluene,C7H8,CC1=CC=CC=C1,Jet,110.6,92.141,168.11,98.46,0,6
+propanol/ 2-methylethanol/ methylehanol,C3H8O,CCCO,Nug,97,60.096,133.75,69.23,1,0
+ethylbenzene,C8H10,CCC1=CC=CC=C1,Thuy,136,106.168,198.54,115.76,0,6
+2?methylheptane,C8H18,CCCCCC(C)C,Christa,116,114.232,275.92,146.92,0,0
+"2,5-Dimethylfuran",C6H8O,CC1=CC=C(O1)C,Yixin,93.5,96.129,173.62,92.59,1,5
+t-butanol,C4H10O,CC(C)(C)O,Anjan,82.4,74.123,167.92,86.53,1,0
+ethanol,C2H6O,CCO,Aidan,78.2,46.069,102.37,51.94,1,0
+"2,3-dimethylbutane",C6H14,CC(C)C(C)C,Ha,57.9,86.178,213.71,112.33,0,0
+neopentane,C5H12,CC(C)(C)C,Jet,9.5,72.151,189.27,95.04,0,0
+"1,2-dimethylcyclopropane",C5H10,CC1CC1C,Nug,32.6,70.135,158.4,82.68,0,0
+3-methyl-1-butene,C5H10,CC(C)C=C,Thuy,20.1,70.135,153.18,92.40,0,0
+ethane,C2H6,CC,Christa,-88.6,30.07,92.56,43.15,0,0
+methylbutane/ n-pentane,C5H12,CCCCC,Yixin,36,72.151,184.93,95.04,0,0
+n-heptane,C7H16,CCCCCCC,Anjan,98.5,100.205,246.04,129.63,0,0
+2-methylbutene,C5H10,CCC(=C)C,Aidan,32.1,70.135,157.68,92.40,0,0
+"2,3,3-trimethylpentane",C8H18,CCC(C)(C)C(C)C,Ha,114.8,114.23,279.76,146.92,0,0
+heptene,C7H14,CCCCCC=C,Jet,93.6,98.189,215.86,126.99,0,0
+2?methylhexane,C7H16,CCCCC(C)C,Nug,90,100.205,245.25,129.63,0,0
+2-methylbutane/ isopentane,C5H12,CCC(C)C,Thuy,27.77,72.151,183.97,95.04,0,0
+methane,CH4,C,Christa,-161.5,16.04,58.17,25.85,0,0
+benzene,C6H6,C1=CC=CC=C1,Yixin,80,78.114,135.86,81.17,0,6
+ethylcyclopropane,C5H10,CCC1CC1,Anjan,35.9,70.135,160.19,82.68,0,0
+"1,4-dimethylbenzene/ 1,4-xylene/ para-xylene",C8H10,CC1=CC=C(C=C1)C,Aidan,138,106.168,200.35,115.76,0,6
+trans-pent-2-ene,C5H10,CC/C=C/C,Ha,36.73,70.135,155.62,92.40,0,0
+methylcyclobutane,C5H10,CC1CCC1,Jet,36.3,70.135,157.47,82.68,0,0
+methylpropane/ n-butane,C4H10,CCCC,Nug,-0.5,58.124,154.37,77.74,0,0
+isopropylbenzene,C9H12,CC(C)C1=CC=CC=C1,Thuy,152.4,120.195,228.49,133.05,0,6
+"1,2-dimethylbenzene / 1,2-xylene/ ortho-xylene",C8H10,CC1=CC=CC=C1C,Christa,144,106.168,200.45,115.76,0,6
+3-methylhexane,C7H16,CCCC(C)CC,Yixin,91,100.205,245.08,129.63,0,0
+pentene,C5H10,CCCC=C,Anjan,30,70.135,154.41,92.40,0,0
+"2,2?dimethylbutane",C6H14,CCC(C)(C)C,Aidan,49.7,86.178,219.59,112.33,0,0
+cis-pent-2-ene,C5H10,CC/C=C\C,Ha,36.73,70.135,156.03,92.40,0,0
+cyclopentane,C5H10,C1CCCC1,Jet,49,70.135,156.99,82.68,0,0
